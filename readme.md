@@ -3,6 +3,7 @@
 ##### Follow these commands
 ###### composer install
 ###### composer update
+###### Create Database called blog
 ###### php artisan migrate
 #### Features
 1. Fully Authentication 
