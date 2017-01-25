@@ -6,11 +6,11 @@
 2. Reset Password 
 3. Image Uploading 
 4. Comments On Posts
-#### For Mail Server https://mailtrap.io
-#### For Form Helper and HTMl Class https://laravelcollective.com/
-#### For Image Class http://image.intervention.io/
-#### For WYSIWYG Editior https://www.tinymce.com/ 
-#### For Multiple Select https://select2.github.io/examples.html
+ For Mail Server https://mailtrap.io
+ For Form Helper and HTMl Class https://laravelcollective.com/
+ For Image Class http://image.intervention.io/
+ For WYSIWYG Editior https://www.tinymce.com/ 
+ For Multiple Select https://select2.github.io/examples.html
 
 ### Laravel PHP Framework
 
