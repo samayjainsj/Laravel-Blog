@@ -1,6 +1,9 @@
 # Blog
 #### Technology Used: Laravel 5.3, Bootstrap
-###### First Create Database Called blog then run this command "php artisan migrate"
+##### Follow these commands
+###### composer install
+###### composer update
+###### php artisan migrate
 #### Features
 1. Fully Authentication 
 2. Reset Password 
